@@ -1,4 +1,7 @@
 # NorthWind_DB_SQL_Project
+## Tools Used:
+DB Browser for SQLite
+
 ## The Questions/Objective and Explaination:
 ## Easy Queries:
 1.List all products and their categories.
