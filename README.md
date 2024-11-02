@@ -6,9 +6,11 @@
 Explanation: This query retrieves the names of all products alongside their category names by joining the Products and Categories tables on CategoryID, which is a shared column between these tables. 
 
 2.Show the first and last names of all employees and the name of the city where they work.
+
 Explanation: This basic query selects and displays the first name, last name, and city of each employee from the Employees table, without requiring any join.
 
 3.Retrieve all orders for a specific customer.
+
 Explanation: This query finds all orders for a specific customer (in this case, "ALFKI") by joining the Orders and Customers tables on CustomerID and filtering by the specific CustomerID.
 
 4.List all shippers and their contact phone numbers.
